@@ -52,7 +52,7 @@ nav bar
 }
 
 #navbar a {
-  color: #cf5f2f;
+  color: #af0000;
   display: inline-block;
   height: 40px;
   line-height: 2em;
@@ -98,6 +98,7 @@ gallery
   list-style: none;
   margin: 15px 2%;
   width: 21%;
+  height: auto;
   -webkit-box-shadow: 0 0 10px 2px #ccc;
   -moz-box-shadow: 0 0 10px 2px #ccc;
   box-shadow: 0 0 10px 2px #ccc;
